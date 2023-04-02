@@ -11,14 +11,14 @@ $$r_{\mathcal{X}, \mathcal{Y}}(d) := \frac{\underset{x\\, \in\\, \mathcal{X},\\ 
 The proof of this theorem is entirely geometrical and is nicely illustrated by the picture below.
 For a given direction $d$ the numerator of $r_{\mathcal{X}, \mathcal{Y}}(d)$ represents the length of the 🟩green and 🟪purple segment, while its denominator represents the length of the 🟪purple segment. 
 
-<img src="video_snap.png" align="center"  width="559" height="318">
+<p align="center"><img src="video_snap.png" width="559" height="318"></p>
 
 Then, as we rotate direction $d$ we can observe how this ratio of lengths is varying and find the maximum of $r_{\mathcal{X}, \mathcal{Y}}(d)$.
 Using the codes available in this repository we can generate an illustrative video of this process, as posted on [YouTube](https://www.youtube.com/watch?v=rjKzHyDJX40).
 
 
 
-<p align="center"> <img src="https://github.com/Jean-BaptisteBouvier/Maximax-Minimax/blob/main/maximax_small.avi" alt="animated" /> </p>
+<p align="center"> <img src="https://github.com/Jean-BaptisteBouvier/Maximax-Minimax/blob/main/maximax_small.gif" alt="animated" /> </p>
 
 
 ## File Structure
