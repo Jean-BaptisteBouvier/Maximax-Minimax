@@ -18,6 +18,9 @@ Using the codes available in this repository we can generate an illustrative vid
 
 
 
+<p align="center"> <img src="https://github.com/Jean-BaptisteBouvier/Maximax-Minimax/blob/main/maximax_small.avi" alt="animated" /> </p>
+
+
 ## File Structure
 - The code `Maximax_minimax_video.m` generates a video illustrating the principle of the proof of the Theorem. 
 - The function `circular_arrow.m` is taken from [MathWorks file exchange](https://www.mathworks.com/matlabcentral/fileexchange/59917-circular_arrow).
